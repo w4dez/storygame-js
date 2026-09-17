@@ -1,5 +1,5 @@
 # storygame-js
-Surreal Comedy Advanture
+Surreal Comedy Adventure
 # Zürich Underground: A Night in Limbo
 
 A short text adventure game set in Zürich's nightlife.
